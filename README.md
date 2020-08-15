@@ -26,3 +26,7 @@ In general, these setup scripts would be a good place to start for those experim
 4. select a mirror
 5. run IRkernel::installspec(user = FALSE)
 6.  run quit()
+
+## install Manta
+A great open source invoicing application.
+Download direct from [Here!](https://github.com/hql287/Manta#downloads)
