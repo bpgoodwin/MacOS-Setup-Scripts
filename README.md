@@ -27,5 +27,5 @@ In general, these setup scripts would be a good place to start for those experim
 A great open source invoicing application.
 Download direct from [Here!](https://github.com/hql287/Manta#downloads)
 
-## install ProtonVPN
+### install ProtonVPN
 A CLI version is [avaliable](https://github.com/ProtonVPN/linux-cli) but I personally perfer the GUI 
