@@ -69,6 +69,7 @@ brew cask install --appdir="/Applications" sublime-text
 brew cask install --appdir="/Applications" virtualbox
 brew cask install --appdir="/Applications" visual-studio-code
 brew cask install --appdir="/Applications" rstudio
+brew cask install --appdir="/Applications" jupyterlab
 
 
 # Remove outdated versions from the cellar.
