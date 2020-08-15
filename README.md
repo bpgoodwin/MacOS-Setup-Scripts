@@ -13,6 +13,8 @@ In general, these setup scripts would be a good place to start for those experim
 - [ ] configure git
 - [ ] configure jupyterlabs
 - [ ] setup all the python stuff within a virtual environment
+- [ ] make taskbar icons double
+- [ ] put added apps unto taskbar
 
 ## Manual Steps
 
