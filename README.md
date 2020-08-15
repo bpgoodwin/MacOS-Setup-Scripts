@@ -15,6 +15,8 @@ In general, these setup scripts would be a good place to start for those experim
 - [ ] setup all the python stuff within a virtual environment
 - [ ] make taskbar icons double
 - [ ] put added apps unto taskbar
+- [ ] auto-update scripts
+- [ ] auto-backup scripts
 
 ## Manual Steps
 
