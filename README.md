@@ -18,11 +18,10 @@ In general, these setup scripts would be a good place to start for those experim
 
 ### To install the r kernel for the jupyter project
 1. run r in the terminal with "r"
-2. within r:
-3. run r "install.packages('IRkernel')"
-4. select a mirror
-5. run IRkernel::installspec(user = FALSE)
-6.  run quit()
+2. run r "install.packages('IRkernel')"
+3. select a mirror
+4. run IRkernel::installspec(user = FALSE)
+5.  run quit()
 
 ### install Manta
 A great open source invoicing application.
