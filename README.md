@@ -21,3 +21,4 @@ In general, these setup scripts would be a good place to start for those experim
 - [ ] personalised terminal profile
 - [ ] configure git
 - [ ] configure jupyterlabs
+- [ ] jupyter lab not installing 
