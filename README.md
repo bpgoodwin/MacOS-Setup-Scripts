@@ -5,8 +5,7 @@ In general, these setup scripts would be a good place to start for those experim
 
 ## to-do
 
-- [X] add R to jupyter
-- [ ] See for java in jup (notetaking @ uni)
+
 - [ ] see for js in jup (notetaking @ uni)
 - [ ] see for c in jpu (notetaking @ uni)
 - [ ] install applications from github (ferdi, manta, pomodoro)
@@ -21,7 +20,6 @@ In general, these setup scripts would be a good place to start for those experim
 - [ ] personalised terminal profile
 - [ ] configure git
 - [ ] configure jupyterlabs
-- [ ] jupyter lab not installing 
 
 ## Manual Steps
 
