@@ -5,7 +5,7 @@ In general, these setup scripts would be a good place to start for those experim
 
 ## to-do
 
-- [ ] add R to jupyter
+- [X] add R to jupyter
 - [ ] See for java in jup (notetaking @ uni)
 - [ ] see for js in jup (notetaking @ uni)
 - [ ] see for c in jpu (notetaking @ uni)
@@ -22,3 +22,13 @@ In general, these setup scripts would be a good place to start for those experim
 - [ ] configure git
 - [ ] configure jupyterlabs
 - [ ] jupyter lab not installing 
+
+## Manual Steps
+
+- to install the r kernel for the jupyter project
+      - run r in the terminal with "r"
+      - within r
+        - run r "install.packages('IRkernel')"
+        - select a mirror 
+        - run IRkernel::installspec(user = FALSE)
+        - run quit()
