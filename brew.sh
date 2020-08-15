@@ -42,10 +42,10 @@ sudo bash -c 'echo /usr/local/bin/bash >> /etc/shells'
 # Change to the new shell, prompts for password
 chsh -s /usr/local/bin/bash
 
-# Install Python
+# Install languages
 brew install python
-brew install python3
 brew install r
+brew install java
 
 # Install more recent versions of some OS X tools.
 brew install vim --override-system-vi
@@ -69,7 +69,6 @@ brew cask install --appdir="/Applications" sublime-text
 brew cask install --appdir="/Applications" virtualbox
 brew cask install --appdir="/Applications" visual-studio-code
 brew cask install --appdir="/Applications" rstudio
-brew cask install --appdir="/Applications" discord
 
 
 # Remove outdated versions from the cellar.
