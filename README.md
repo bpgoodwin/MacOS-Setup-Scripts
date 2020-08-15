@@ -4,10 +4,6 @@ A set of scripts to quickly setup a standardised development environment. This i
 In general, these setup scripts would be a good place to start for those experimenting with Data Science and Software Engineering, with many modern and popular technologies (note that not all of the scripts may be nessasary for you).
 
 ## to-do
-
-
-- [ ] see for js in jup (notetaking @ uni)
-- [ ] see for c in jpu (notetaking @ uni)
 - [ ] install applications from github (ferdi, manta, pomodoro)
 - [ ] install proton VPN
 - [ ] pomodoro open on start
