@@ -27,20 +27,20 @@ pip install virtualenv
 pip install virtualenvwrapper
 
 # Install Python data modules
-pip install numpy
-pip install scipy
-pip install matplotlib
-pip install pandas
-pip install sympy
-pip install nose
-pip install unittest2
-pip install seaborn
-pip install scikit-learn
-pip install "ipython[all]"
-pip install bokeh
-pip install Flask
-pip install sqlalchemy
-pip install mysqlclient
+pip3 install numpy
+pip3 install scipy
+pip3 install matplotlib
+pip3 install pandas
+pip3 install sympy
+pip3 install nose
+pip3 install unittest2
+pip3 install seaborn
+pip3 install scikit-learn
+pip3 install "ipython[all]"
+pip3 install bokeh
+pip3 install Flask
+pip3 install sqlalchemy
+pip3 install mysqlclient
 
 echo "------------------------------"
 echo "Script completed."
