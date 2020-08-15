@@ -28,7 +28,7 @@ In general, these setup scripts would be a good place to start for those experim
 ### To install the r kernel for the jupyter project
 1. run r in the terminal with "r"
 2. within r:
-- * run r "install.packages('IRkernel')"
-- * select a mirror
-- * run IRkernel::installspec(user = FALSE)
-- * run quit()
+-  run r "install.packages('IRkernel')"
+-  select a mirror
+-  run IRkernel::installspec(user = FALSE)
+-  run quit()
