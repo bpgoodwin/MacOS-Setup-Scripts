@@ -28,7 +28,7 @@ In general, these setup scripts would be a good place to start for those experim
 5.  run quit()
 
 ### install Manta
-A great open source invoicing application.
+A great open source invoicing application with a great mission.
 Download direct from [Here!](https://github.com/hql287/Manta#downloads)
 
 ### install ProtonVPN
