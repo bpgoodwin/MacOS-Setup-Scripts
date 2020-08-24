@@ -44,7 +44,6 @@ chsh -s /usr/local/bin/bash
 
 # Install languages
 brew install python
-brew install pyenv
 brew install r
 brew install java
 
@@ -53,7 +52,6 @@ brew install vim --override-system-vi
 brew install homebrew/dupes/grep
 brew install homebrew/dupes/openssh
 brew install homebrew/dupes/screen
-brew install homebrew/php/php55 --with-gmp
 
 # Install other useful binaries.
 
@@ -67,7 +65,6 @@ brew cask install --appdir="~/Applications" java
 
 # Development tool casks
 brew cask install --appdir="/Applications" sublime-text
-brew cask install --appdir="/Applications" virtualbox
 brew cask install --appdir="/Applications" visual-studio-code
 brew cask install --appdir="/Applications" rstudio
 brew cask install --appdir="/Applications" ferdi
