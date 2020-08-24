@@ -3,8 +3,7 @@ A set of scripts to quickly setup a standardised development environment. This i
 
 In general, these setup scripts would be a good place to start for those experimenting with Data Science and Software Engineering, with many modern and popular technologies (note that not all of the scripts may be nessasary for you).
 
-## to-do
-- [ ] auto configure vm
+## To-do
 - [ ] configure sublime text
 - [ ] configure R studio (packages)
 - [ ] configure vscode
@@ -27,9 +26,9 @@ In general, these setup scripts would be a good place to start for those experim
 4. run IRkernel::installspec(user = FALSE)
 5.  run quit()
 
-### install Manta
+### Install Manta
 A great open source invoicing application with a great mission.
 Download direct from [Here!](https://github.com/hql287/Manta#downloads)
 
-### install ProtonVPN
+### Install ProtonVPN
 A CLI version is [avaliable](https://github.com/ProtonVPN/linux-cli) but I personally perfer the GUI 
