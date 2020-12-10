@@ -60,6 +60,13 @@ brew install git-lfs
 brew install git-flow
 brew install git-extras
 
+#JS and webdev stuff
+
+brew install yarn
+brew install node
+yarn global add @vue/cli
+yarn global add @nuxtjs/vuetify
+
 # Core casks
 brew cask install --appdir="~/Applications" java
 
@@ -68,6 +75,11 @@ brew cask install --appdir="/Applications" sublime-text
 brew cask install --appdir="/Applications" visual-studio-code
 brew cask install --appdir="/Applications" rstudio
 brew cask install --appdir="/Applications" notion
+brew cask install --appdir="/Applications" brave-browser
+brew cask install --appdir="/Applications" spotify
+brew cask install --appdir="/Applications" vlc
+brew cask install --appdir="/Applications" discord
+brew cask install --appdir="/Applications" iterm2
 
 # Remove outdated versions from the cellar.
 brew cleanup
