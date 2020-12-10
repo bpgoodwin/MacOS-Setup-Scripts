@@ -3,6 +3,19 @@ A set of scripts to quickly setup a standardised development environment. This i
 
 In general, these setup scripts would be a good place to start for those experimenting with Data Science and Software Engineering, with many modern and popular technologies (note that not all of the scripts may be nessasary for you).
 
+## List of installations
+- X-Code command lines tools
+- pip
+- pip virtual environment
+- Data Science packages (numpy, scipy, matplotlib, pandas, scikit-learn, jupyterlab, ipython)
+- brew upgrade (coreutils, moreutils, findutils, gnu-sed, bash, some more recent versions of OSX tools)
+- programming languages (python, r, java)
+- git (and useful extensions)
+- Clean-up (removing outdated versions) 
+- Applications (Sublime Text, VSCode, Rstudio, Notion)
+
+#### The osx.sh set my prefered settings and defaults within the OS. I recommend fully reading it before using, as it may not suit your needs. 
+
 ## To-do
 - [ ] configure sublime text
 - [ ] configure R studio (packages)
@@ -30,5 +43,13 @@ In general, these setup scripts would be a good place to start for those experim
 A great open source invoicing application with a great mission.
 Download direct from [Here!](https://github.com/hql287/Manta#downloads)
 
-### Install ProtonVPN
-A CLI version is [avaliable](https://github.com/ProtonVPN/linux-cli) but I personally perfer the GUI 
+pip3 install virtualenv
+pip3 install virtualenvwrapper
+
+pip3 install numpy
+pip3 install scipy
+pip3 install matplotlib
+pip3 install pandas
+pip3 install scikit-learn
+pip3 install "ipython[all]"
+pip3 install jupyterlab

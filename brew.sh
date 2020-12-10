@@ -67,8 +67,6 @@ brew cask install --appdir="~/Applications" java
 brew cask install --appdir="/Applications" sublime-text
 brew cask install --appdir="/Applications" visual-studio-code
 brew cask install --appdir="/Applications" rstudio
-brew cask install --appdir="/Applications" ferdi
-brew cask install --appdir="/Applications" pomolectron
 brew cask install --appdir="/Applications" notion
 
 # Remove outdated versions from the cellar.
