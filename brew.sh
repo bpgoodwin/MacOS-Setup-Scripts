@@ -80,6 +80,7 @@ brew cask install --appdir="/Applications" spotify
 brew cask install --appdir="/Applications" vlc
 brew cask install --appdir="/Applications" discord
 brew cask install --appdir="/Applications" iterm2
+brew cask intall --appdir="/Applications" github
 
 # Remove outdated versions from the cellar.
 brew cleanup

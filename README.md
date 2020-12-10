@@ -14,7 +14,7 @@ In general, these setup scripts would be a good place to start for those experim
 - programming languages (python, r, java)
 - git (and useful extensions)
 - Clean-up (removing outdated versions) 
-- Applications (Sublime Text, VSCode, Rstudio, Notion, Brave Browser, Spotify, VLC, Discord, iterm2)
+- Applications (Sublime Text, VSCode, Rstudio, Notion, Brave Browser, Spotify, VLC, Discord, iterm2, Github Desktop)
 
 #### The osx.sh set my prefered settings and defaults within the OS. I recommend fully reading it before using, as it may not suit your needs.
 
